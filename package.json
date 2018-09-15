@@ -1,0 +1,24 @@
+{
+  "name": "Great_Bay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "great_bayCRUD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/courtneyduggins/Great_Bay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courtneyduggins/Great_Bay/issues"
+  },
+  "homepage": "https://github.com/courtneyduggins/Great_Bay#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
