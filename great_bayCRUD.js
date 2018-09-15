@@ -10,7 +10,8 @@ var connection = mysql.createConnection({
     user: root,
 
     password: "Cmd32390!",
-    database: "great_bay"
+    database: "great_bay",
+    insecureAuth: true,
 
 
 });
